@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Jorge Platero and my nickname is "jorgeplatero"!
+## My name is Jorge Platero!
 
-- 🔭 I’m currently working on telecommunications
+- 🔭 I’m currently working on telecommunications, as a network analyst
 - 🌱 I’m currently learning data analytics
 - 👯 I’m looking to collaborate on data projects
 
