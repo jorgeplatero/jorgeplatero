@@ -9,3 +9,11 @@ Sou pós-graduando em análise de dados pela FIAP e tecnólogo em automação in
 
 ## Contato
 <a href="https://www.linkedin.com/in/jorgeplatero" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+## Estatísticas
+
+<div align="center">
+  <a href="https://github.com/jorgeplatero">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=jorgeplatero&show_icons=true&theme=tokyonight"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeplatero&layout=compact&theme=tokyonight"/>
+</div>
