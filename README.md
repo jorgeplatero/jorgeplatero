@@ -14,6 +14,10 @@ Sou pós-graduando em análise de dados pela FIAP e tecnólogo em automação in
 
 <div align="center">
   <a href="https://github.com/jorgeplatero">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=jorgeplatero&show_icons=true&theme=tokyonight"/>
+  <div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=jorgeplatero&show_icons=true&theme=tokyonight"/>
+  </div>
+  <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeplatero&layout=compact&theme=tokyonight"/>
+  </div>
 </div>
