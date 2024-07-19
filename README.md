@@ -1,5 +1,5 @@
 # 👋 Olá! Bem-vindos ao meu perfil GitHub.
-### Meu nome é Jorge Platero!
+### Meu nome é Jorge Platero.
 
 Sou pós-graduado em análise de dados pela FIAP e tecnólogo em automação industrial pela Fatec, possuo experiência como analista de redes móveis, tendo atuado com elementos da ERB da rede de acesso - tecnologias 2G a 5G - e, atualmente, com elementos BSC/RNC e do Packet Core da RAN.
 
