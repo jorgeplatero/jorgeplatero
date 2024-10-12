@@ -8,7 +8,8 @@ Sou pós-graduado em análise de dados pela FIAP e tecnólogo em automação ind
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/> 
 
-<img src="https://avatars.githubusercontent.com/u/42988494?s=200&v=4" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" width="65" height="65"/> <img src="https://github.com/jorgeplatero/qlik_sense_fundamental/blob/df95a04d352e385e90585f21ceca51855ca5e810/img/icone_qlik.png" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="70" height="70"/>
+<img src="https://avatars.githubusercontent.com/u/42988494?s=200&v=4" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" width="80" height="80"/> <img src="https://github.com/jorgeplatero/qlik_sense_fundamental/blob/df95a04d352e385e90585f21ceca51855ca5e810/img/icone_qlik.png" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" height="80"/>
+
 </div>
 
 ## Contato
