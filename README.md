@@ -1,5 +1,4 @@
-# 👋 Olá! Bem-vindos ao meu perfil GitHub.
-### Meu nome é Jorge Platero.
+# 👋 Olá! Bem-vindos ao meu GitHub.
 
 Possuo experiência como analista de redes móveis, tendo atuado com elementos ERB da rede de acesso - tecnologias 2G a 5G - e, atualmente, com elementos BSC/RNC e de Packet Core. Realizei especialização em análise de dados, onde, em conjunto com outros treinamentos, pude desenvolver skills em ferramentas de desenvolvimento, dataviz e RDBMS/NoSQL, com Python, PostgreSQL, MySQL, MongoDB, BigQuery, Power BI, Qlik Sense, Streamlit, além de frameworks para manipulação de grande quantidade de dados com o PySpark, orquestrador de fluxos com o Apache Airflow e também para o desenvolvimento de modelos de Machine Learning e Deep Learning, com PyTorch e Scikit-Learn.
 
