@@ -6,6 +6,8 @@ Possuo também experiência como analista de redes móveis, tendo atuado com ele
 
 Realizei especialização em análise de dados, quando, em conjunto com outros treinamentos, pude desenvolver skills em ferramentas de desenvolvimento, dataviz e RDBMS/NoSQL, com Python, PostgreSQL, MySQL, MongoDB, BigQuery, Power BI, Qlik Sense, Streamlit, além de frameworks para manipulação de grande quantidade de dados com o PySpark, orquestrador de fluxos com o Apache Airflow e também para o desenvolvimento de modelos de Machine Learning e Deep Learning, com PyTorch e Scikit-Learn.
 
+Atualmente curso engenharia de dados buscando aprofundar conhecimentos em arquitetura de dados, automação de pipelines, otimização de fluxos, entre outros.
+
 ## Ferramentas e Tecnologias
 
 <div align="center">
