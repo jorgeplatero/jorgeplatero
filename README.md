@@ -2,8 +2,6 @@
 
 Atualmente analista de BI, sou responsável pelo desenvolvimento de soluções de dataviz, desde a construção e gerenciamento de pipelines de dados até desenvolvimento de dashboards para análise de indicadores.
 
-Possuo também experiência como analista de redes móveis, tendo atuado com elementos RF da rede de acesso - tecnologias 2G a 5G - e com elementos BSC/RNC e de Packet Core.
-
 Realizei especialização em análise de dados, quando, em conjunto com outros treinamentos, pude desenvolver skills em ferramentas de desenvolvimento, dataviz e RDBMS/NoSQL, com Python, PostgreSQL, MySQL, MongoDB, BigQuery, Power BI, Qlik Sense, Streamlit, além de frameworks para manipulação de grande quantidade de dados com o PySpark, orquestrador de fluxos com o Apache Airflow e também para o desenvolvimento de modelos de Machine Learning e Deep Learning, com PyTorch e Scikit-Learn.
 
 ## Ferramentas e Tecnologias
